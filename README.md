@@ -1,2 +1,6 @@
 # Save_Yo_Links
-A chrome extension developed using React.
+An extension developed using React.
+
+This extension can be used to recover all links (history) stored in a firebase database across all browser using a single authentication.
+
+
